@@ -343,6 +343,11 @@ $daterangepicker-ranges-active-border-radius: $daterangepicker-border-radius !de
       cursor: not-allowed;
       text-decoration: line-through;
     }
+
+    &.disabled-semi {
+      color: #999;
+      cursor: default;
+    }
   }
 
   select {

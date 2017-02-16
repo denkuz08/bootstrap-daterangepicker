@@ -121,6 +121,9 @@
     color: #999;
     cursor: not-allowed;
     text-decoration: line-through; }
+  .daterangepicker td.disabled-semi, .daterangepicker option.disabled-semi {
+    color: #999;
+    cursor: default; }
   .daterangepicker select.monthselect, .daterangepicker select.yearselect {
     font-size: 12px;
     padding: 1px;
@@ -258,6 +261,7 @@
       .daterangepicker.rtl .ranges, .daterangepicker.rtl .calendar {
         text-align: right;
         float: right; } }
+
 @media (min-width: 730px) {
   .daterangepicker .ranges {
     width: auto; }
