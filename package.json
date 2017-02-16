@@ -1,6 +1,6 @@
 {
   "name": "extended-bootstrap-daterangepicker",
-  "version": "2.1.26-icon",
+  "version": "2.1.26",
   "description": "Extended. Daterange picker component for Bootstrap",
   "main": "daterangepicker.js",
   "style": "daterangepicker.css",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/denkuz08/bootstrap-daterangepicker"
+    "url": "https://github.com/denkuz08/extended-bootstrap-daterangepicker"
   },
   "author": {
     "name": "Dan Grossman",
@@ -25,9 +25,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/denkuz08/bootstrap-daterangepicker/issues"
+    "url": "https://github.com/denkuz08/extended-bootstrap-daterangepicker/issues"
   },
-  "homepage": "https://github.com/denkuz08/bootstrap-daterangepicker",
+  "homepage": "https://github.com/denkuz08/extended-bootstrap-daterangepicker",
   "dependencies": {
     "jquery": ">=1.10",
     "moment": "^2.9.0"

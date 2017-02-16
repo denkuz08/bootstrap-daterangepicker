@@ -1,8 +1,8 @@
 Package.describe({
   name: 'denkuz08:extended-bootstrap-daterangepicker',
-  version: '2.1.26-icon',
-  summary: 'Date range picker component for Bootstrap',
-  git: 'https://github.com/denkuz08/bootstrap-daterangepicker',
+  version: '2.1.26',
+  summary: 'Extended Date range picker component for Bootstrap',
+  git: 'https://github.com/denkuz08/extended-bootstrap-daterangepicker',
   documentation: 'README.md'
 });
 
