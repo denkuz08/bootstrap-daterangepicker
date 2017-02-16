@@ -1,5 +1,5 @@
 /**
- * @version: 2.1.25
+ * @version: 2.1.26-icon
  * @author: Dan Grossman http://www.dangrossman.info/
  * @author Denis Kuznetsov / iConText
  * @copyright: Copyright (c) 2012-2017 Dan Grossman. All rights reserved.
